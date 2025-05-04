@@ -1,0 +1,22 @@
+# Core framework
+Django==4.2.2
+
+# Optional dependencies often useful in Django projects
+# Uncomment if you plan to use them
+
+# For rendering crispy forms (optional)
+# django-crispy-forms==2.0
+
+# For PostgreSQL support (optional alternative to SQLite)
+# psycopg2-binary==2.9.9
+
+# For development/testing
+pytest==8.1.1
+pytest-django==4.8.0
+
+# Environment variable management (optional)
+# python-decouple==3.8
+
+# Linting and formatting tools (optional)
+# flake8==7.0.0
+# black==24.3.0
